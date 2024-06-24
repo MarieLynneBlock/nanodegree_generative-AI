@@ -1,2 +1,1 @@
-# nanodegree_generative-ai
-Nanodegree Generative Art
+# Nanodegree Generative AI
